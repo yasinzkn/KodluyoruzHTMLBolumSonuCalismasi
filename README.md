@@ -1,4 +1,4 @@
 # KodluyoruzHTMLBolumSonuCalismasi
 Kodluyoruz Front-End Eğitimi HTML Bölüm Sonu Çalışması
 
-[Yasin Özkan](https://app.patika.dev/yasinzkn)
+[www.patika.dev](https://www.patika.dev)
